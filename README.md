@@ -1,4 +1,13 @@
 ### Hi there 👋
+###
+### What are you interested in learning?
+### --Things like how to implement programming into real life examples
+###
+### What are you working on?
+### --I have not work on anything typical right now. I am trying my best to finish CSCI3251.
+###
+### What's your favorite hobby?
+### --My favorite hobby is gaming. I love playing video games on PC, consoles, and mobile.
 
 <!--
 **1155158346/1155158346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
